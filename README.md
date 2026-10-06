@@ -34,16 +34,6 @@ The main objectives of this project are:
 The dataset contains supermarket transaction, product, and customer information.
 [Download Dataset](https://github.com/anjutha09/Grocery-Supermarket-Sales-Analysis/blob/main/Grocery_Supermarket_Mini_Capstone_Dataset.xlsx)
 
-
-## 📊 Dashboard
-
-![Grocery Supermarket Sales Dashboard](./Dashboard.png)
-
-[🔗 View Dashboard Image](./Dashboard.png)
-
-
-
-
 ### Sales Data
 
 The `Sales_Raw` sheet contains transaction-level information such as:
@@ -165,9 +155,7 @@ can be used to understand customer characteristics and purchasing behavior.
 
 ## 📊 Dashboard
 
-The project includes an Excel dashboard designed to provide a quick overview of supermarket performance.
-
-The dashboard focuses on:
+#The dashboard focuses on:
 
 * Total Sales
 * Total Transactions
@@ -178,6 +166,11 @@ The dashboard focuses on:
 * Monthly Sales
 * Payment Method Analysis
 * Branch Performance
+  ![Grocery Supermarket Sales Dashboard](./Dashboard.png)
+
+[🔗 View Dashboard Image](./Dashboard.png)
+
+
 
 ---
 
@@ -203,42 +196,6 @@ The product-level analysis can be used to identify products with particularly st
 * KPI Analysis
 * Business Intelligence
 * Data Visualization
-
----
-
-## 📁 Project Structure
-
-```text
-Grocery-Supermarket-Sales-Analysis/
-│
-├── README.md
-│
-├── dataset/
-│   └── Grocery_Supermarket_Dataset.xlsx
-│
-├── dashboard/
-│   └── Grocery_Supermarket_Dashboard.xlsx
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── category_analysis.png
-│   └── product_analysis.png
-│
-└── insights/
-    └── business_insights.md
-```
-
----
-
-## 🚀 How to Use This Project
-
-1. Download the Excel workbook.
-2. Open the workbook using Microsoft Excel.
-3. Review the `Sales_Raw` sheet for transaction-level data.
-4. Explore `Products_Master` and `Customers_Master`.
-5. Open the `Pivot Analyse` sheet to view the analysis.
-6. Open the `Dashboard` sheet to view the visual analysis.
-7. Review the `Insights` sheet for business findings.
 
 ---
 
