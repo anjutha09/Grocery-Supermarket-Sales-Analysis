@@ -25,8 +25,7 @@ The main objectives of this project are:
 * Calculate average basket value
 * Compare branch performance
 * Generate actionable business insights
-* Create an interactive and easy-to-understand dashboardhttps://github.com/anjutha09/Grocery-Supermarket-Sales-Analysis/blob/main/Grocery_Supermarket_Mini_Capstone_Dataset.xlsx
-
+* Create an interactive and easy-to-understand dashboard
 ---
 
 ## 🗂️ Dataset
