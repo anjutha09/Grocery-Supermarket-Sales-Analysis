@@ -32,7 +32,8 @@ The main objectives of this project are:
 ## 🗂️ Dataset
 
 The dataset contains supermarket transaction, product, and customer information.
-- <a href="https://github.com/anjutha09/Grocery-Supermarket-Sales Analysis/blob/main/Grocery_Supermarket_Mini_Capstone_Dataset.xlsx">Store data</a>
+- <a href="https://github.com/anjutha09/c/blob/main/Grocery_Supermarket_Mini_Capstone_Dataset.xlsx">Grocery-Supermarket-Sales-Analysis</a>
+-<a href="https://github.com/anjutha09/Grocery-Supermarket-Sales-Analysis/blob/main/Dashboard.png">Dataset</a>
 
 
 
